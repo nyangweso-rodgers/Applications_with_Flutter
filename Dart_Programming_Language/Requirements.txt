@@ -1,0 +1,6 @@
+# Seup of Dart Environment in VS Code
+
+## Step 1: Download VS Code
+
+## Step 2: Dowloading Dart SDK Zip and Settings
+* https://www.youtube.com/watch?v=UDPi8jDvmlA
