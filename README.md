@@ -4,6 +4,7 @@
 - [References]()
     - [Flutter - Official Documentation](https://flutter.dev/)
     - [Visual Studio Code](https://docs.flutter.dev/development/tools/vs-code)
+    - [Why You Should Use Flutter for Your Projects](https://www.freecodecamp.org/news/why-you-should-use-flutter/)
 
 # Overview Of Flutter
 __Flutter__ is an open-source UI development toolbox. It was released by __Google__ in 2017 to develop interactive cross-platform mobile apps with a single codebase. 
