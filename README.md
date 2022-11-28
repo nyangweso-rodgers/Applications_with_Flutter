@@ -8,6 +8,9 @@
     - [Flutter is better than React Native*](https://shift.infinite.red/flutter-is-better-than-react-native-fed10c92a768)
     - [Flutter Design Patterns](https://mkobuolys.medium.com/list/flutter-design-patterns-9804e6a0c3f4)
     - [Hosting Flutter Web Applications on Firebase for Free with Generous Spark Plan](https://medium.com/flutter-community/hosting-flutter-web-applications-on-firebase-for-free-with-generous-spark-plan-a87ef2aa8d0d)
+    - [Flutter Course for Beginners – 37-hour Mobile App Development Tutorial](https://www.freecodecamp.org/news/learn-flutter-full-course/)
+    - [Writing Your First Flutter WidgetAnd Best Practices](https://fredgrott.medium.com/writing-your-first-flutter-widgetand-best-practices-8dc0ea74dc86)
+    - [Flutter Course for Beginners – 37-hour Mobile App Development Tutorial](https://www.freecodecamp.org/news/learn-flutter-full-course/)
 
 # Overview Of Flutter
 __Flutter__ is an open-source UI development toolbox. It was released by __Google__ in 2017 to develop interactive cross-platform mobile apps with a single codebase. 
