@@ -11,6 +11,8 @@
     - [Flutter Course for Beginners – 37-hour Mobile App Development Tutorial](https://www.freecodecamp.org/news/learn-flutter-full-course/)
     - [Writing Your First Flutter WidgetAnd Best Practices](https://fredgrott.medium.com/writing-your-first-flutter-widgetand-best-practices-8dc0ea74dc86)
     - [Flutter Course for Beginners – 37-hour Mobile App Development Tutorial](https://www.freecodecamp.org/news/learn-flutter-full-course/)
+    - [Add Firebase to your Flutter app](https://firebase.google.com/docs/flutter/setup?platform=ios)
+    - [FlutterFire Overview](https://t.co/4vBf2vFp1d)
 
 # Overview Of Flutter
 __Flutter__ is an open-source UI development toolbox. It was released by __Google__ in 2017 to develop interactive cross-platform mobile apps with a single codebase. 
@@ -23,4 +25,9 @@ Testing Support | has three main categories of testing to measure the performanc
 Performance | helps you create lightning-fast animations and widgets. | has a hot reload feature that shows changes to your code in real-time.
 Development Time | as its widget catalog to help developers create interactive interfaces. | uses JavaScript bridging to communicate with user interfaces.
 
-# Flutter Databases
+# Adding Firebase to Flutter App
+Adding __Firebase__ to your __flutter app__ involves 4 major steps: 
+1. Create a Firebase project
+2. Register your app with Firebase
+3. Add a Firebase configuration file
+4. Add FlutterFire plugins
